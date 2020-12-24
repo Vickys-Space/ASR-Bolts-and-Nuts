@@ -1,0 +1,11 @@
+.table-container {
+    height: 100vh;
+}
+
+.table {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 100px;
+}

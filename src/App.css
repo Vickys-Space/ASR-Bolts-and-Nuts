@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+  }
+  
+.hero-img {
+  background: url("../src/Components/Assets/images/Bg.png") center center/cover no-repeat;
+  height: 100%;
+  width: 100%;
+  background-attachment: fixed;
+  display: flex;
+  object-fit: contain;
+  flex-direction: column;
+  position: sticky;
+}
